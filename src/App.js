@@ -5,7 +5,7 @@ import WeatherButton from './component/WeatherButton';
 import { ClipLoader } from 'react-spinners';
 
 
-const API_KEY = 'd8c8e057b09fb525f3e63f1e152c96c9';
+const API_KEY = 'de14f99f543bf8277bafbe0fb88518cd';
 
 function App() {
   const [weather,setWeather] = useState(null);
